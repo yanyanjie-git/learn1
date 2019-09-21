@@ -1,5 +1,6 @@
 this is the first git program
 git is free software
 life is a sky
+git has a mutable index called stage
 
 
